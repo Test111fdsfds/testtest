@@ -40,11 +40,11 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 
 ## Download ##
-Messor for OpenCart3: [messor.opencart](https://github.com/messor-network/messor-opencart/releases)
+[Messor for OpenCart3](https://github.com/messor-network/messor-opencart/releases)
 
-OpenCart.com: [messor.opencart](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42800)
+[OpenCart.com](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42800)
 
-Messor core: [messor.core](https://github.com/messor-network/messor-kernel)
+[Messor core](https://github.com/messor-network/messor-kernel)
 
 
 ## Submitting bugs
