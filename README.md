@@ -54,26 +54,42 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 
 
-## License
-Apache 2
+## Video tutorials ##
+[How to Install Messor Security for OpenCart3](https://www.youtube.com/watch?v=ITUAnl4-ZDA)
+
+[How to block IP address](https://www.youtube.com/watch?v=2BJpZt0urhQ)
+
+[How to add IP address on allow list](https://www.youtube.com/watch?v=xKPF8TA6U3Y)
+
+[How to update messor database manual](https://www.youtube.com/watch?v=EieVmN0SdZ0)
+
+[How to enable DDoS protection](https://www.youtube.com/watch?v=ertBWieAlgA)
+
+[How to check error log](https://www.youtube.com/watch?v=lv-DEPmgHr0)
+
+[How to disable show error](https://www.youtube.com/watch?v=-2ltdv2SLc0)
+
+[How to remove messor extension](https://www.youtube.com/watch?v=2LjvRFi4ozc)
+
+[OpenCart3 Secure install and configure part1](https://www.youtube.com/watch?v=cf2Z6HjIHkQ)
 
 
-## ScreenShot
+## ScreenShot ##
 ![Messor ScreenShot](https://messor.network/images/github/opencart/screenshot.gif)
 
 
 
-## Links
-Official site:   [messor.network](https://messor.network/)
+## Links ##
+Official site
++ [Messor.Network](https://messor.network/)
++ [Messor.Opencart](https://opencart.messor.network/)
++ [Documentation](https://doc.messor.network/)
++ [Support](messor.network/Support/)
 
 
 
-Documentatation: [doc.messor.network](https://doc.messor.network/)
+## Social networks ##
+Дайте список
 
 
 
-Releases:        <https://github.com/messor-network/messor-opencart/releases>
-
-
-
-Reporting a bug: <https://github.com/messor-network/messor-opencart/issues>
