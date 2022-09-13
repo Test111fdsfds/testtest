@@ -7,16 +7,8 @@
 
 ![Messor-OpenCart](https://s3.dropmefiles.top/ua/i/e8792705b5cea2f03388f86885f645a3/1cda9e3ead7c683d2e6143ccee300b56)
 
-Free open source plugin for OpenCart to protect your store.
-Each network member collects intruders and attacks data and then sends it to central servers, as well as distributes the current database to the rest network participants.
-The current concept provides real-time protection of your store from the network attacks.
-
-
-
-## Whom Messor is intended for ##
-+ If you are blogging or maintain website on the Internet
-+ If you have got online company
-+ If you have got websites and servers network
+## Learn more about Messor ##
+Messor is able to work in console mode on any server, while being compatible with iptables, Portsentry, and other console apps as well. Just internet and php are required for successfull operation. The requirements are minimal, php 5.3 and higher versions - the network operates on both older php versions and on new ones. Messor.Network is open source. Messor limited control the network support and development.
 
 
 
