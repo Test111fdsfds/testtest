@@ -47,10 +47,10 @@ Messor is able to work in console mode on any server, while being compatible wit
 [Messor core](https://github.com/messor-network/messor-kernel)
 
 
-## Submitting bugs
-You can report issues directly on Github, that would be a really useful contribution given that we lack some user testing on the project. 
-Please document as much as possible the steps to reproduce your problem (even better with screenshots).
-Reporting a bug: <https://github.com/messor-network/messor-opencart/issues>
+## Documentation ##
+[Messor Network Protocol Documentation](https://doc.messor.network/ru/protocol/)
+
+[Messor core documentation](https://doc.messor.network/lib/)
 
 
 
