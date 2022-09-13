@@ -30,12 +30,12 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 ## Messor benefits ##
 
-![Messor-OpenCart](https://messor.network/images/github/opencart/services.png)
+![Messor-OpenCart](https://s3.dropmefiles.top/ua/i/e8792705b5cea2f03388f86885f645a3/625fd7b21ad718dc3e852f4836b842da)
 
 
 
 ## Functional ##
-![Messor-OpenCart](https://messor.network/images/github/opencart/services2.png)
+![Messor-OpenCart](https://s3.dropmefiles.top/ua/i/e8792705b5cea2f03388f86885f645a3/71a2d428e6cb4e28a57755a8beda47af)
 
 
 
