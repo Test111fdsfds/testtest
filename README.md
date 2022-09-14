@@ -89,13 +89,13 @@ Official site
 
 
 ## Social networks ##
-[Linkedin](https://www.linkedin.com/company/messor-limited/)
-[YouTube](https://www.youtube.com/channel/UCon88PdrKMQTjuAYCkWjn1g)
-[Facebook](https://www.facebook.com/MessorNetwork)
-[Twitter](https://twitter.com/MessorNetwork/)
-[Discord](https://discord.gg/jpbVdvfj)
-[Telegram](https://t.me/MessorNetwork)
-[Reddit](https://www.reddit.com/user/Messor-Network)
+[Linkedin](https://www.linkedin.com/company/messor-limited/) |
+[YouTube](https://www.youtube.com/channel/UCon88PdrKMQTjuAYCkWjn1g) |
+[Facebook](https://www.facebook.com/MessorNetwork) |
+[Twitter](https://twitter.com/MessorNetwork/) |
+[Discord](https://discord.gg/jpbVdvfj) |
+[Telegram](https://t.me/MessorNetwork) |
+[Reddit](https://www.reddit.com/user/Messor-Network) |
 [Github](https://github.com/messor-network)
 
 
