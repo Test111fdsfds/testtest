@@ -55,7 +55,7 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 
 ## Video tutorials ##
-![Messor YouTube](https://i.ibb.co/yszcZ47/4.jpg)
+[![Messor YouTube](https://i.ibb.co/yszcZ47/4.jpg)](https://www.youtube.com/channel/UCon88PdrKMQTjuAYCkWjn1g)
 
 [How to Install Messor Security for OpenCart3](https://www.youtube.com/watch?v=ITUAnl4-ZDA)
 
