@@ -77,7 +77,7 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 
 ## ScreenShot ##
-![Messor ScreenShot](https://i.ibb.co/WysCnr7/Frame-16812.png)
+![Messor ScreenShot](https://i.ibb.co/d2jwwx9/Frame-16812.png)
 ![Messor ScreenShot](https://i.ibb.co/4RKp3gL/12.gif)
 
 
