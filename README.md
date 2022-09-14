@@ -76,8 +76,9 @@ Messor is able to work in console mode on any server, while being compatible wit
 
 
 ## ScreenShot ##
-![Messor ScreenShot](https://dropmefiles.top/ua/i/1f710d07916bb3151c453c764cfaf1ca/fa3ee22994d654d5818a2f7cb42af215)
-![Messor ScreenShot](https://messor.network/images/github/opencart/screenshot.gif)
+![Messor ScreenShot](https://previews.dropbox.com/p/thumb/ABoLngkFHjx7Y_GM45MIgm5K8ebJZXPhb7Kb_vlmM4tS8KRHmjM5Tn36IDZdPHsEF-FjqYH_bPGMswExYEDibnIQAMk1bz34zkOkyOJocjHp1Jgy6Jc89k_6A9lArbjlwGgb90ifx9ElLW6AQwzFWmNTfhnO-8k49YnTIIfOjsSkdh8fANwsCfje0NtEsfX-pSur1q50AH9sWrp8LyCvWi4XWcE_VBUIJ5K9Kv51HAUTVj54NpYMbS5EQyTLNwUcaeeW1MfSjkcyGdTer0h2WN8t2U6sgZ241PWQdSrTleOib4UfaQ_fXdnG0B69NqEqlYDL2i08FBSzivCPezzXrkahiGMgzrJtBwVYyZm0VkTqa7fL-cbGiSNmdBi6NDKcn_s/p.png)
+
+![Messor ScreenShot](https://previews.dropbox.com/p/thumb/ABrlVBPRrs_lxC1Outj0rdhdCOGD-38Ov6_LwQ2tUnFqI2KVSVoA85FQTJ6K7XL9EJd8gvhpG-EgYYb7oaZ0noASZCZmm1kFozBYHt3a5-BKDzba--TDX8qQmXoEEWbrVfbBHP6hIEcapHwAN_r9hyQDVCnBrWVugdY9qmo1Zc3vFASy0RHzcV3n3Crb800Ywf3THAuNu8LleRAspAW5x-uXEr-stOuyzP5rb5p3dNIuFUd4lRXFfl_IoUu-GJcOHI3sj1sZ3QYTXT0eRFNG6HuBP_EIZsd9AFqMKSCXfJNg-WXAPmyz3tO9J8-0oqZIC220HSRYRcEfpbkp_wJmXvhv7GOpMDh3YZYX_oJtcGPolc9JMNXaOPQR9RJ-4qP6s-k/p.gif)
 
 
 
