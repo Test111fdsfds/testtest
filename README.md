@@ -90,12 +90,19 @@ Official site
 
 ## Social networks ##
 [linkedin](https://www.linkedin.com/company/messor-limited/)
+
 [youtube](https://www.youtube.com/channel/UCon88PdrKMQTjuAYCkWjn1g)
+
 [facebook](https://www.facebook.com/MessorNetwork)
+
 [twitter](https://twitter.com/MessorNetwork/)
+
 [discord](https://discord.gg/jpbVdvfj)
+
 [telegram](https://t.me/MessorNetwork)
+
 [reddit](https://www.reddit.com/user/Messor-Network)
+
 [github](https://github.com/messor-network)
 
 
